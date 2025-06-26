@@ -1,0 +1,7 @@
+﻿query_id,retrieval_method,predicted_solution,top_5_case_ids
+Q001,BERT,LAIN-LAIN,"[30, 2, 29, 7, 23]"
+Q001,TFIDF,LAIN-LAIN,"[4, 12, 23, 14, 34]"
+Q002,BERT,LAIN-LAIN,"[2, 30, 22, 23, 12]"
+Q002,TFIDF,LAIN-LAIN,"[10, 22, 4, 14, 1]"
+Q003,BERT,LAIN-LAIN,"[30, 7, 2, 22, 10]"
+Q003,TFIDF,LAIN-LAIN,"[1, 10, 33, 2, 7]"
