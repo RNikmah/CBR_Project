@@ -1,0 +1,196 @@
+2025-06-05 06:18:20 - Starting scraping process for keyword: perceraian
+2025-06-05 06:18:20 - Target number of documents: 35
+2025-06-05 06:18:20 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=perceraian&page=1
+2025-06-05 06:18:34 - Page 1: Found 23 potential links. Added 23 new unique links.
+2025-06-05 06:18:36 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=perceraian&page=2
+2025-06-05 06:18:40 - Page 2: Found 23 potential links. Added 20 new unique links.
+2025-06-05 06:18:42 - Accessing search results page: https://putusan3.mahkamahagung.go.id/search.html?q=perceraian&page=3
+2025-06-05 06:18:59 - Page 3: Found 23 potential links. Added 10 new unique links.
+2025-06-05 06:18:59 - Collected enough links (53). Moving to data extraction.
+2025-06-05 06:18:59 - Total unique decision links collected: 53
+2025-06-05 06:18:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/ad616f008f8d6b544507d50d48fa8e5b.html
+2025-06-05 06:18:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/1be38006ca21e585d48031af3d1cb65c.html
+2025-06-05 06:18:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee8cf23ea3c67e98b0313335373335.html
+2025-06-05 06:18:59 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041d3e75598e6a0c2313331313232.html
+2025-06-05 06:19:04 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/a0521379be7361dc623a67c27249304e/pdf/ad616f008f8d6b544507d50d48fa8e5b
+2025-06-05 06:19:18 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/e8117ee49828291f01e18b9aabcd2304/pdf/1be38006ca21e585d48031af3d1cb65c
+2025-06-05 06:19:21 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/5fd0e4cbe9924074146fe0ca25c5df1e/pdf/zaee8cf23ea3c67e98b0313335373335
+2025-06-05 06:19:27 - Successfully downloaded PDF: putusan_28_pdt.g_2020_pn_sdw_20250605131926.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:19:28 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:19:28 - Extracted and cleaned text for 28/Pdt.G/2020/PN Sdw. Length: 48438 chars.
+2025-06-05 06:19:28 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_28_Pdt.G_2020_PN Sdw_001.txt
+2025-06-05 06:19:28 - Successfully processed and got data for case_id: case_001
+2025-06-05 06:19:28 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/efd118affa6c47afb260870f7a82ede0.html
+2025-06-05 06:19:29 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041d3e75598e6a0c2313331313232.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:19:34 - Successfully downloaded PDF: putusan_40_pdt.g_2019_pn_ckr_20250605131933.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:19:35 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:19:35 - Extracted and cleaned text for 40/Pdt.G/2019/PN Ckr. Length: 9990 chars.
+2025-06-05 06:19:35 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_40_Pdt.G_2019_PN Ckr_003.txt
+2025-06-05 06:19:35 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee09ae34200f40afeb313235303239.html
+2025-06-05 06:19:38 - Successfully downloaded PDF: putusan_229_pdt.g_2023_pn_nga_20250605131936.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:19:39 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:19:39 - Extracted and cleaned text for 229/Pdt.G/2023/PN Nga. Length: 24583 chars.
+2025-06-05 06:19:39 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_229_Pdt.G_2023_PN Nga_002.txt
+2025-06-05 06:19:39 - Successfully processed and got data for case_id: case_002
+2025-06-05 06:19:39 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaedd448c2761438b6f4313430303438.html
+2025-06-05 06:19:39 - Successfully processed and got data for case_id: case_003
+2025-06-05 06:19:47 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04ee19d472680c5313632353134.html
+2025-06-05 06:19:47 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/d74166527532952bf77af1a25a057128/pdf/zaf041d3e75598e6a0c2313331313232
+2025-06-05 06:19:58 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee09ae34200f40afeb313235303239.html
+2025-06-05 06:19:58 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/0566928c2b73838073b417cb681df5de.html
+2025-06-05 06:20:08 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/bc2d11f8531ba3af5a6ee595cecabee5/pdf/zaedd448c2761438b6f4313430303438
+2025-06-05 06:20:17 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04ee19d472680c5313632353134.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:20:22 - Successfully downloaded PDF: putusan_9_pdt.g_2025_pa.sdk_20250605132013.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:20:23 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:20:23 - Extracted and cleaned text for 9/Pdt.G/2025/PA.Sdk. Length: 38124 chars.
+2025-06-05 06:20:23 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_9_Pdt.G_2025_PA.Sdk_004.txt
+2025-06-05 06:20:23 - Successfully processed and got data for case_id: case_004
+2025-06-05 06:20:23 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec3c411f496aee97c8303735383133.html
+2025-06-05 06:20:23 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-05 06:20:23 - Successfully processed and got data for case_id: case_006
+2025-06-05 06:20:26 - Successfully downloaded PDF: putusan_27_pdt.g_2023_pn_nga_20250605132024.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:20:27 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:20:27 - Extracted and cleaned text for 27/Pdt.G/2023/PN Nga. Length: 23842 chars.
+2025-06-05 06:20:27 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_27_Pdt.G_2023_PN Nga_007.txt
+2025-06-05 06:20:27 - Successfully processed and got data for case_id: case_007
+2025-06-05 06:20:27 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaedc2c65b41da92a647303731343330.html
+2025-06-05 06:20:28 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/0566928c2b73838073b417cb681df5de.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:20:30 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf04ee19d472680c5313632353134.html
+2025-06-05 06:20:30 - Successfully processed and got data for case_id: case_008
+2025-06-05 06:20:30 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb766aea8cf466a532313333383333.html
+2025-06-05 06:20:38 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/8832dfc0e41b6393108f80ffdbc1c97f/pdf/zaec3c411f496aee97c8303735383133
+2025-06-05 06:20:45 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaedc2c65b41da92a647303731343330.html
+2025-06-05 06:20:45 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec1f6c257cde249f0b313532333038.html
+2025-06-05 06:20:54 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed1442c89cbb1cacfd303531343138.html
+2025-06-05 06:20:54 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-05 06:21:00 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeb766aea8cf466a532313333383333.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:21:01 - Successfully downloaded PDF: putusan_194_pdt.g_2021_pn_amp_20250605132100.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:21:02 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:21:02 - Extracted and cleaned text for 194/Pdt.G/2021/PN Amp. Length: 33526 chars.
+2025-06-05 06:21:02 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_194_Pdt.G_2021_PN Amp_010.txt
+2025-06-05 06:21:02 - Successfully processed and got data for case_id: case_010
+2025-06-05 06:21:02 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec824d24c7a2d6941d313132303338.html
+2025-06-05 06:21:02 - Successfully processed and got data for case_id: case_011
+2025-06-05 06:21:09 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec1f6c257cde249f0b313532333038.html
+2025-06-05 06:21:09 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee672821fb00ea9474313134373336.html
+2025-06-05 06:21:19 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/11ef06bc41021e2c862e313333383238/pdf/zaed1442c89cbb1cacfd303531343138
+2025-06-05 06:21:20 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec824d24c7a2d6941d313132303338.html
+2025-06-05 06:21:20 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/b66907b2d3ef792647ae509b6cfe2476.html
+2025-06-05 06:21:24 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/6566794f92a0190be690329e4b0063c4/pdf/zaeb766aea8cf466a532313333383333
+2025-06-05 06:21:38 - Successfully downloaded PDF: putusan_75_pdt.g_2022_pn_sim_20250605132137.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:21:39 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee672821fb00ea9474313134373336.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:21:41 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:21:41 - Extracted and cleaned text for 75/Pdt.G/2022/PN Sim. Length: 54396 chars.
+2025-06-05 06:21:41 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_75_Pdt.G_2022_PN Sim_014.txt
+2025-06-05 06:21:41 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/884476bc95ff4815a3e10e98eaf60bea.html
+2025-06-05 06:21:49 - Successfully downloaded PDF: putusan_8_pdt.g_2021_pn_smn_20250605132148.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:21:49 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:21:49 - Extracted and cleaned text for 8/Pdt.G/2021/PN Smn. Length: 25034 chars.
+2025-06-05 06:21:49 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_8_Pdt.G_2021_PN Smn_012.txt
+2025-06-05 06:21:49 - Successfully processed and got data for case_id: case_012
+2025-06-05 06:21:49 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/35526421617675047ba7119bc17818af.html
+2025-06-05 06:21:49 - Successfully processed and got data for case_id: case_013
+2025-06-05 06:21:49 - Successfully processed and got data for case_id: case_014
+2025-06-05 06:21:49 - Successfully processed and got data for case_id: case_015
+2025-06-05 06:21:50 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/b66907b2d3ef792647ae509b6cfe2476.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:22:00 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee672821fb00ea9474313134373336.html
+2025-06-05 06:22:00 - Successfully processed and got data for case_id: case_016
+2025-06-05 06:22:00 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec3c7668f4016ab7a7313431393430.html
+2025-06-05 06:22:08 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaeca33b00ac7962846d303930333535.html
+2025-06-05 06:22:11 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/884476bc95ff4815a3e10e98eaf60bea.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:22:16 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-05 06:22:16 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec42a36de66cacb8f6313035373033.html
+2025-06-05 06:22:30 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec3c7668f4016ab7a7313431393430.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:22:31 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/e5c53418d525ea8cd2b02557cae72c0c/pdf/zaeca33b00ac7962846d303930333535
+2025-06-05 06:22:35 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/b112a8c2ad4cbd8bc7aacef34d312153/pdf/zaec42a36de66cacb8f6313035373033
+2025-06-05 06:22:36 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/884476bc95ff4815a3e10e98eaf60bea.html
+2025-06-05 06:22:36 - Successfully processed and got data for case_id: case_018
+2025-06-05 06:22:36 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-05 06:22:36 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaebf004c9970e54a0e4303733343531.html
+2025-06-05 06:22:44 - Successfully downloaded PDF: putusan_1_pdt.g_2022_pn_bnj_20250605132242.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:22:46 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:22:46 - Extracted and cleaned text for 1/Pdt.G/2022/PN Bnj. Length: 27233 chars.
+2025-06-05 06:22:46 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_1_Pdt.G_2022_PN Bnj_021.txt
+2025-06-05 06:22:46 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/b8c62aa77b94fcc9b16d06af1d77f9f1.html
+2025-06-05 06:22:54 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec3c7668f4016ab7a7313431393430.html
+2025-06-05 06:22:54 - Successfully processed and got data for case_id: case_020
+2025-06-05 06:22:54 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/953f72a685082e1e7afac26a573a90f1.html
+2025-06-05 06:22:54 - Successfully processed and got data for case_id: case_021
+2025-06-05 06:22:54 - Successfully downloaded PDF: putusan_377_pdt.g_2021_pn_bks_20250605132251.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:22:56 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:22:56 - Extracted and cleaned text for 377/Pdt.G/2021/PN Bks. Length: 24318 chars.
+2025-06-05 06:22:56 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_377_Pdt.G_2021_PN Bks_022.txt
+2025-06-05 06:22:56 - Successfully processed and got data for case_id: case_022
+2025-06-05 06:22:56 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec8a502c8a727cb04d313630323239.html
+2025-06-05 06:23:03 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/c054ca2540a658c68d4265469ddb75fe/pdf/zaebf004c9970e54a0e4303733343531
+2025-06-05 06:23:10 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/85a70b3669386e7edfb4a0acf2b9f45c.html
+2025-06-05 06:23:16 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/46562d40cf3412f0e74e7f5eaf763955/pdf/953f72a685082e1e7afac26a573a90f1
+2025-06-05 06:23:18 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaec8a502c8a727cb04d313630323239.html
+2025-06-05 06:23:18 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee05d0ae8a9ea89e8a313434373133.html
+2025-06-05 06:23:25 - Successfully downloaded PDF: putusan_71_pdt.g_2021_pn_srp_20250605132325.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:23:26 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:23:26 - Extracted and cleaned text for 71/Pdt.G/2021/PN Srp. Length: 31209 chars.
+2025-06-05 06:23:26 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_71_Pdt.G_2021_PN Srp_023.txt
+2025-06-05 06:23:26 - Successfully processed and got data for case_id: case_023
+2025-06-05 06:23:26 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/4c277ad9b74107146273242cd26f9932.html
+2025-06-05 06:23:26 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-05 06:23:38 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee11cd74ffe504a1ab323035343232.html
+2025-06-05 06:23:41 - Successfully downloaded PDF: putusan_6_pdt.g_2019_pn_bli_20250605132340.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:23:42 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:23:42 - Extracted and cleaned text for 6/Pdt.G/2019/PN Bli. Length: 30774 chars.
+2025-06-05 06:23:42 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_6_Pdt.G_2019_PN Bli_025.txt
+2025-06-05 06:23:42 - Successfully processed and got data for case_id: case_025
+2025-06-05 06:23:42 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041d3af906f58a366313330393438.html
+2025-06-05 06:23:42 - Successfully processed and got data for case_id: case_026
+2025-06-05 06:23:42 - A scraping task failed: 'NoneType' object has no attribute 'get_text'
+2025-06-05 06:23:44 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee05d0ae8a9ea89e8a313434373133.html
+2025-06-05 06:23:44 - Successfully processed and got data for case_id: case_028
+2025-06-05 06:23:44 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaecbf2b99bc15209fac323232343132.html
+2025-06-05 06:23:56 - Error opening page https://putusan3.mahkamahagung.go.id/direktori/putusan/4c277ad9b74107146273242cd26f9932.html: HTTPSConnectionPool(host='putusan3.mahkamahagung.go.id', port=443): Read timed out. (read timeout=30). Retrying 1/3
+2025-06-05 06:23:58 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/f88e039525c4bf7badb669b9fe13c916/pdf/zaee11cd74ffe504a1ab323035343232
+2025-06-05 06:24:00 - No PDF link found on https://putusan3.mahkamahagung.go.id/direktori/putusan/zaf041d3af906f58a366313330393438.html
+2025-06-05 06:24:00 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaee55c7c2dab7208df1303930343535.html
+2025-06-05 06:24:11 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/a531762d92f67bee81ca98f4e73dd272/pdf/zaecbf2b99bc15209fac323232343132
+2025-06-05 06:24:15 - Successfully downloaded PDF: putusan_56_pdt.g_2023_pn_byw_20250605132414.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:24:16 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:24:16 - Extracted and cleaned text for 56/Pdt.G/2023/PN Byw. Length: 28049 chars.
+2025-06-05 06:24:16 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_56_Pdt.G_2023_PN Byw_030.txt
+2025-06-05 06:24:16 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/zaed75d8b69a32f89aa7303934313535.html
+2025-06-05 06:24:21 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/851eda79bcbec4736b1b5127f5afefc0/pdf/zaee55c7c2dab7208df1303930343535
+2025-06-05 06:24:27 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/aa15adb0c33ec554944520f95bd81329/pdf/4c277ad9b74107146273242cd26f9932
+2025-06-05 06:24:33 - Successfully downloaded PDF: putusan_47_pdt.g_2022_pn_bit_20250605132431.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:24:34 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:24:34 - Extracted and cleaned text for 47/Pdt.G/2022/PN Bit. Length: 26152 chars.
+2025-06-05 06:24:34 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_47_Pdt.G_2022_PN Bit_032.txt
+2025-06-05 06:24:34 - Processing decision: https://putusan3.mahkamahagung.go.id/direktori/putusan/17e3182d268d221f2116e8ebc07bb41e.html
+2025-06-05 06:24:41 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/43da779bc6eff34831eb5990363ef91f/pdf/zaed75d8b69a32f89aa7303934313535
+2025-06-05 06:24:48 - Successfully downloaded PDF: putusan_129_pdt.g_2023_pn_amr_20250605132444.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:24:49 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:24:49 - Extracted and cleaned text for 129/Pdt.G/2023/PN Amr. Length: 31053 chars.
+2025-06-05 06:24:49 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_129_Pdt.G_2023_PN Amr_033.txt
+2025-06-05 06:24:49 - Successfully downloaded PDF: putusan_157_pdt.g_2018_pn_bli_20250605132449.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:24:50 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:24:50 - Extracted and cleaned text for 157/Pdt.G/2018/PN Bli. Length: 29513 chars.
+2025-06-05 06:24:50 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_157_Pdt.G_2018_PN Bli_029.txt
+2025-06-05 06:24:50 - Successfully processed and got data for case_id: case_029
+2025-06-05 06:24:50 - Successfully processed and got data for case_id: case_030
+2025-06-05 06:24:50 - Successfully processed and got data for case_id: case_031
+2025-06-05 06:24:50 - Successfully processed and got data for case_id: case_032
+2025-06-05 06:24:50 - Successfully processed and got data for case_id: case_033
+2025-06-05 06:24:56 - Found PDF link: https://putusan3.mahkamahagung.go.id/direktori/download_file/6e4791ee17504191a03d0a9851c84e50/pdf/17e3182d268d221f2116e8ebc07bb41e
+2025-06-05 06:25:03 - Successfully downloaded PDF: putusan_226_pdt.g_2022_pn_byw_20250605132502.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:25:04 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:25:04 - Extracted and cleaned text for 226/Pdt.G/2022/PN Byw. Length: 23563 chars.
+2025-06-05 06:25:04 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_226_Pdt.G_2022_PN Byw_034.txt
+2025-06-05 06:25:04 - Successfully processed and got data for case_id: case_034
+2025-06-05 06:25:08 - Successfully downloaded PDF: putusan_94_pdt.g_2018_pn_bli_20250605132508.pdf to /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan
+2025-06-05 06:25:09 - Performed basic text cleaning (MA disclaimers, whitespace).
+2025-06-05 06:25:09 - Extracted and cleaned text for 94/Pdt.G/2018/PN Bli. Length: 37035 chars.
+2025-06-05 06:25:09 - Saved cleaned text to: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw/case_94_Pdt.G_2018_PN Bli_035.txt
+2025-06-05 06:25:09 - Successfully processed and got data for case_id: case_035
+2025-06-05 06:25:09 - Successfully processed 29 documents.
+2025-06-05 06:25:09 - All scraped data saved to: /content/drive/MyDrive/Semester 6/PK/UAS/Scrap_CSVs/putusan_ma_perceraian_2025-06-05.csv
+2025-06-05 06:25:09 - Total documents in CSV: 29
+2025-06-05 06:25:09 - Scraping and initial processing complete.
+2025-06-05 06:25:09 - Cleaned text files saved in: /content/drive/MyDrive/Semester 6/PK/UAS/data/raw
+2025-06-05 06:25:09 - PDFs downloaded to: /content/drive/MyDrive/Semester 6/PK/UAS/PDFs_Putusan

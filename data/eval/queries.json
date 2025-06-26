@@ -1,0 +1,57 @@
+[
+    {
+        "query_id": "Q001",
+        "query_text": "Suami meninggalkan istri dan anak lebih dari dua tahun tanpa nafkah dan kabar berita.",
+        "relevant_case_ids": [
+            2,
+            4,
+            10,
+            12,
+            14,
+            22,
+            23,
+            29,
+            34,
+            35
+        ],
+        "correct_outcome": "MENGABULKAN GUGATAN"
+    },
+    {
+        "query_id": "Q002",
+        "query_text": "Terjadi perselisihan dan pertengkaran terus menerus dalam rumah tangga sehingga tidak ada harapan rukun kembali.",
+        "relevant_case_ids": [
+            1,
+            2,
+            3,
+            4,
+            7,
+            10,
+            12,
+            14,
+            21,
+            22,
+            23,
+            25,
+            29,
+            30,
+            32,
+            33,
+            34,
+            35
+        ],
+        "correct_outcome": "MENGABULKAN GUGATAN"
+    },
+    {
+        "query_id": "Q003",
+        "query_text": "Salah satu pihak melakukan penganiayaan.",
+        "relevant_case_ids": [
+            1,
+            2,
+            7,
+            10,
+            14,
+            21
+        ],
+        "correct_outcome": "LAIN-LAIN"
+    }
+]

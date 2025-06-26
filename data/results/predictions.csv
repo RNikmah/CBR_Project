@@ -1,0 +1,4 @@
+﻿query_id,predicted_solution,top_5_case_ids
+Q001,LAIN-LAIN,"[30, 2, 29, 7, 23]"
+Q002,LAIN-LAIN,"[2, 30, 22, 23, 12]"
+Q003,LAIN-LAIN,"[30, 7, 2, 22, 10]"
